@@ -24,4 +24,7 @@
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landslide_prediction">Landslide Prediction</string>
+    <string name="high_risk_areas">High Risk Areas</string>
+    <string name="landslide_risk">Landslide Risk</string>
 </resources>
