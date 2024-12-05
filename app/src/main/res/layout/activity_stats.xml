@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Home3">
+
+    <Button
+        android:id="@+id/buttonBarChart"
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:layout_marginTop="200dp"
+        android:text="@string/landslide_prediction"/>
+
+    <Button
+        android:id="@+id/buttonPieChart"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/high_risk_areas" />
+
+
+    <Button
+        android:id="@+id/buttonRadarChart"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/landslide_risk"/>
+
+</LinearLayout>
